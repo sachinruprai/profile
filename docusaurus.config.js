@@ -1,0 +1,1 @@
+module.exports={title:'Sachin Ruprai',tagline:'Technology Leadership • AI • Transformation',url:'https://sachinruprai.github.io',baseUrl:'/'};
